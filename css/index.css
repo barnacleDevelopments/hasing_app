@@ -1,0 +1,8 @@
+#hash-display {
+    width: 100%;
+    word-wrap: break-word;
+}
+#hash-display p {
+    word-wrap: break-word;
+    overflow: auto;
+}
